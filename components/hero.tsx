@@ -25,13 +25,13 @@ export function Hero() {
           <div className="order-2 lg:order-1 animate-slide-in-left">
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-[#FFB22C] to-[#854836] rounded-2xl blur-xl opacity-30 animate-pulse-glow"></div>
-              <div className="relative bg-white rounded-2xl p-2 shadow-2xl">
+              <div className="relative bg-white rounded-2xl p-2 shadow-2xl portfolio-image-container">
                 <Image
                   src="/portfolio/static/images/fareed-profile.jpg"
                   alt="Fareed Ali Anwar - AI Engineer"
                   width={500}
                   height={600}
-                  className="rounded-xl object-cover w-full h-auto"
+                  className="rounded-xl object-cover w-full h-auto portfolio-image"
                   priority
                 />
               </div>

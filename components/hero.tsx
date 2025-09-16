@@ -27,7 +27,7 @@ export function Hero() {
               <div className="absolute inset-0 bg-gradient-to-r from-[#FFB22C] to-[#854836] rounded-2xl blur-xl opacity-30 animate-pulse-glow"></div>
               <div className="relative bg-white rounded-2xl p-2 shadow-2xl">
                 <Image
-                  src="/static/images/fareed-profile.jpg"
+                  src="/portfolio/static/images/fareed-profile.jpg"
                   alt="Fareed Ali Anwar - AI Engineer"
                   width={500}
                   height={600}

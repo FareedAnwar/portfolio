@@ -4,17 +4,40 @@ import { Calendar, MapPin } from "lucide-react"
 
 const experiences = [
   {
-    title: "Junior NLP Engineer",
-    company: "Dexef",
-    location: "Remote",
-    period: "Oct 2024 – Present",
+    title: "AI Advanced Mentor",
+    company: "Instant",
+    location: "Cairo, Egypt",
+    period: "Nov 2025 – Present",
     achievements: [
-      "Developed and deployed 3+ LLM-powered applications using LangChain and RAG, improving query accuracy by 15%",
-      "Designed semantic search pipelines leveraging vector databases, reducing query latency by 25%",
-      "Fine-tuned Transformer models (BERT, GPT-based) achieving a 12% improvement in F1-score on internal NLP tasks",
-      "Implemented NER pipelines and custom tokenizers, enabling real-time entity extraction from large datasets",
+      "Mentoring learners in advanced AI and machine learning techniques",
+      "Guiding hands-on projects and providing technical feedback",
+      "Supporting students in building real-world AI solutions",
     ],
-    skills: ["LangChain", "RAG", "Vector Databases", "BERT", "GPT", "NER", "Transformers"],
+    skills: ["AI", "Machine Learning", "Mentorship", "Project Guidance", "Technical Coaching"],
+  },
+  {
+    title: "Intern AI Engineer",
+    company: "Dexef ERP System",
+    location: "Cairo, Egypt",
+    period: "Oct 2025 – Apr 2026",
+    achievements: [
+      "Built LLM-based applications using LangChain and RAG with improved response accuracy",
+      "Designed semantic search pipelines with faster and more relevant retrieval",
+      "Fine-tuned Transformer models for stronger NLP performance",
+    ],
+    skills: ["LangChain", "RAG", "Semantic Search", "Transformers", "LLMs", "NLP"],
+  },
+  {
+    title: "AI Head",
+    company: "Developer Student Club (DSC)",
+    location: "Cairo, Egypt",
+    period: "Oct 2025 – Mar 2026",
+    achievements: [
+      "Led the AI team and mentored junior members",
+      "Delivered AI/ML training and supervised student projects",
+      "Organized workshops and fostered collaboration across teams",
+    ],
+    skills: ["Leadership", "AI Training", "Mentoring", "Team Management", "Workshops"],
   },
 ]
 

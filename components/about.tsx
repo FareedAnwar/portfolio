@@ -59,9 +59,9 @@ export function About() {
               <div className="flex flex-col md:flex-row md:items-center md:justify-between">
                 <div>
                   <h4 className="font-semibold text-foreground">Bachelor of Computer Science</h4>
-                  <p className="text-muted-foreground">El Shorouk Academy, Cairo, Egypt</p>
+                  <p className="text-muted-foreground">Faculty of Computer Science, El Shorouk Academy - Cairo, Egypt</p>
                 </div>
-                <div className="text-accent font-medium mt-2 md:mt-0">Oct 2022 – Oct 2026</div>
+                <div className="text-accent font-medium mt-2 md:mt-0">Oct 2022 - Jul 2026</div>
               </div>
             </CardContent>
           </Card>

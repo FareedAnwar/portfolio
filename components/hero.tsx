@@ -27,7 +27,7 @@ export function Hero() {
               <div className="absolute inset-0 bg-gradient-to-r from-[#FFB22C] to-[#854836] rounded-2xl blur-xl opacity-30 animate-pulse-glow"></div>
               <div className="relative bg-white rounded-2xl p-2 shadow-2xl portfolio-image-container">
                 <Image
-                  src="/portfolio/static/images/fareed-profile.jpg"
+                  src="/static/images/fareed-profile.jpg"
                   alt="Fareed Ali Anwar - AI Engineer"
                   width={500}
                   height={600}
@@ -48,7 +48,9 @@ export function Hero() {
               Junior AI Engineer specializing in{" "}
               <span className="text-[#854836] font-semibold">Large Language Models</span>,{" "}
               <span className="text-[#854836] font-semibold">RAG Systems</span>, and{" "}
-              <span className="text-[#854836] font-semibold">Computer Vision</span>
+              <span className="text-[#854836] font-semibold">Computer Vision</span>. I also build{" "}
+              <span className="text-[#854836] font-semibold">AI Agents</span> and{" "}
+              <span className="text-[#854836] font-semibold">complex AI systems</span>.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start items-center mb-12">
